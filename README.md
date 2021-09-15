@@ -1,5 +1,7 @@
 <h2>Hola! Hey! はじめまして! 👋</h2>
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=marcosb74.marcosb74)](https://github.com/marcosb74) [![GitHub followers](https://img.shields.io/github/followers/marcosb74.svg?style=social&label=Follow)](https://github.com/marcosb74?tab=followers)
+
 [![GitHub followers](https://img.shields.io/github/followers/marcosb74.svg?style=social&label=Follow)](https://github.com/marcosb74?tab=followers)
 
 I'm Marcos Balbuena Full stack developer, Manga Artist and Bachelor Student of Computer Science, nice to meet you!
