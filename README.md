@@ -29,7 +29,9 @@ I also like drawing manga, playing Tennis, Paddel and Swim !
 
 <h2>🚧 Projects you can find here </h2>
 
-Wip!
+<p align="left">
+  <a href="https://github.com/marcosb74/projects-interviews"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosb74&card_height=300&&repo=projects-interviews&langs_count=5&layout=compact&theme=dracula">
+</p>  
 
 <h2>📈 My stats!</h2>
 
@@ -38,15 +40,6 @@ Wip!
   <a href="https://github.com/marcosb74"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosb74&hide=html,scss,css&langs_count=10&layout=compact&theme=dracula">
 </p>
     
-## My repos
-    
-<p align="left">
-  
-   <a href="https://github.com/marcosb74/laxmena"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosb74&repo=laxmena&langs_count=5&theme=dracula">
-  <a href="https://github.com/marcosb74/projects-interviews"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosb74&card_height=300&&repo=projects-interviews&langs_count=5&layout=compact&theme=dracula">
-  <a href="https://github.com/marcosb74/humble-test"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosb74&repo=humble-test&layout=compact&theme=dracula">
-  <a href="https://github.com/marcosb74/mern-srv"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosb74&repo=mern-srv&hide=html,scss,css&langs_count=10&layout=compact&theme=dracula">
-</p>  
 
 
 <h2>📫 How to reach me:</h2>
