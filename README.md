@@ -29,7 +29,7 @@ I also like drawing manga, playing Tennis, Paddel and Swim !
 
 <h2>🚧 Projects you can find here </h2>
 
-
+Wip!
 
 <h2>📈 My stats!</h2>
 
@@ -42,6 +42,9 @@ I also like drawing manga, playing Tennis, Paddel and Swim !
 
 <a href="mailto:marcos.dbalbuena@gmail.com">![mailto:marcos.dbalbuena@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/mdbalbuena/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+<h2> ©️ Credits ></h2>
 
+- eichenbergerche for the amazing guide on how to set up the stats reports! [https://github.com/eichenbergerche/github-readme-stats-tuto]
+- To "visitor-badge.laobi.icu" for the badge on views!
 
 
