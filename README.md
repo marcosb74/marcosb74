@@ -44,7 +44,7 @@ Wip!
 
 <h2> ©️ Credits </h2>
 
-- eichenbergerche for the amazing guide on how to set up the stats reports! [https://github.com/eichenbergerche/github-readme-stats-tuto]
+- eichenbergerche for the amazing guide on how to set up the stats reports! [https://github.com/eichenbergerche/github-readme-stats-tuto] (Guide)
 - To "visitor-badge.laobi.icu" for the badge on views!
 
 
