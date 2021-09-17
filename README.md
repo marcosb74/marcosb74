@@ -23,7 +23,7 @@ __Front and Backend Technologies__
 
 Currently I am 15 subjects away from finishing my studies in Computer Science, I am a student at UAI ( Universidad Abierta Interamericana ) in Argentina!
 
-I also like drawing manga, playing Tennis, Paddel and Swim ! 
+I also like drawing manga, playing Tennis, Paddel and Swimming ! 
 
 
 
