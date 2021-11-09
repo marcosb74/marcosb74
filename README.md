@@ -13,6 +13,7 @@ __Front and Backend Technologies__
 - Angular
 - Typescript
 - Finishing a React course I started few months ago!
+- Vue
 
 <h2>👨‍💻 Working Experience : </h2>
 - <i>Currently:</i> Full Stack developer at Ulusoft. ( Sep 2021 - Present ) 
