@@ -17,6 +17,7 @@ __Front and Backend Technologies__
 
 <h2>👨‍💻 Working Experience : </h2>
 - <i>Currently:</i> Full Stack developer at Ulusoft. ( Sep 2021 - Present ) 
+
 - <i>Previously:</i> MERN Full Stack  at Spark Solutions. ( July 2021 - Sep 2021 )
 
 
