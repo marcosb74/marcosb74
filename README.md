@@ -33,17 +33,16 @@ I also like drawing manga, playing Tennis, Paddel and Swimming !
 
 <p align="left">
   <a href="https://github.com/marcosb74/projects-interviews"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosb74&card_height=300&&repo=projects-interviews&langs_count=5&layout=compact&theme=dracula">
-  <a href="https://github.com/marcosb74/backend-ch-chs"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosb74&card_height=300&&repo=backend-ch-chs&langs_count=5&layout=compact&theme=dracula">
+  <a href="https://github.com/marcosb74/burganow-frontend"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosb74&card_height=300&&repo=backend-ch-chs&langs_count=5&layout=compact&theme=dracula">
 </p>  
 
 <h2>📈 My stats!</h2>
 
 <p align="left">
   <a href="https://github.com/marcosb74"><img width="400" src="https://github-readme-stats.vercel.app/api?username=marcosb74&show_icons=true&theme=dracula">
-  <a href="https://github.com/marcosb74"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosb74&hide=html,scss,css&langs_count=10&layout=compact&theme=dracula">
+  <a href="https://github.com/marcosb74"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosb74&card_height=300&&repo=burganow-frontend&langs_count=5&layout=compact&theme=dracula">
+  <a href="https://github.com/marcosb74"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosb74&card_height=300&&repo=burganow-backend&langs_count=5&layout=compact&theme=dracula">
 </p>
-    
-
 
 <h2>📫 How to reach me:</h2>
 
