@@ -10,15 +10,15 @@ I speak English, Spanish, a little bit of Portuguese and currently learning Japa
 
 __Front and Backend Technologies__
 
-- Angular
+- Go!
 - Typescript
-- Finishing a React course I started few months ago!
 - AWS
+- 3D Modelling
 
 <h2>👨‍💻 Working Experience : </h2>
-- <i>Currently:</i> Full Stack developer at Ulusoft. ( Sep 2021 - Present ) 
-
-- <i>Previously:</i> MERN Full Stack  at Spark Solutions. ( July 2021 - Sep 2021 )
+- <i>Currently:</i> Software Engineer @ HomeVision. ( March 2022 - Present ) 
+- <i>Previously:</i> Full Stack developer @ Ulusoft. ( Sep 2021 - March 2022 ) 
+- <i>First Experience:</i> MERN Full Stack  @ Spark Solutions. ( Jun 2021 - Sep 2021 )
 
 
 <h2>📚About me:</h2>
