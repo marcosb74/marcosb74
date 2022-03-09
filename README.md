@@ -17,7 +17,9 @@ __Front and Backend Technologies__
 
 <h2>👨‍💻 Working Experience : </h2>
 - <i>Currently:</i> Software Engineer @ HomeVision. ( March 2022 - Present ) 
+
 - <i>Previously:</i> Full Stack developer @ Ulusoft. ( Sep 2021 - March 2022 ) 
+
 - <i>First Experience:</i> MERN Full Stack  @ Spark Solutions. ( Jun 2021 - Sep 2021 )
 
 
