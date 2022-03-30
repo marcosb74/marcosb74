@@ -13,7 +13,6 @@ __Front and Backend Technologies__
 - Go!
 - Typescript
 - AWS
-- 3D Modelling
 
 <h2>👨‍💻 Working Experience : </h2>
 - <i>Currently:</i> Software Engineer @ HomeVision. ( March 2022 - Present ) 
