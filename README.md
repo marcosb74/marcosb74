@@ -10,12 +10,15 @@ I speak English, Spanish, a little bit of Portuguese and currently learning Japa
 
 __Front and Backend Technologies__
 
-- Go!
+- React
 - Typescript
 - AWS
+- Github Actions
 
 <h2>👨‍💻 Working Experience : </h2>
-- <i>Currently:</i> Software Engineer @ HomeVision. ( March 2022 - Present ) 
+- <i>Currently:</i> Software Engineer @ Flame Factory. ( October 2022 - Present ) 
+
+- <i>Previously:</i> Software Engineer @ HomeVision. ( March 202 - September 2022 ) 
 
 - <i>Previously:</i> Full Stack developer @ Ulusoft. ( Sep 2021 - March 2022 ) 
 
