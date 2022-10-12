@@ -14,6 +14,8 @@ __Front and Backend Technologies__
 - Typescript
 - AWS
 - Github Actions
+- Docker
+
 
 <h2>👨‍💻 Working Experience : </h2>
 - <i>Currently:</i> Software Engineer @ Flame Factory. ( October 2022 - Present ) 
